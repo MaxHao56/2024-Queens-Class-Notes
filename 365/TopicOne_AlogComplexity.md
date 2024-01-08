@@ -23,6 +23,10 @@ and its purpose is to make sure or inspect the correctness of the aloghrimn
 
 [initialization] [maintainctence] [terminaation]
 
+
+![image](https://github.com/MaxHao56/2024-Queens-Class-Notes/assets/132418186/53818929-4505-4b49-860b-5463c2ace8c5)
+
+
 with insetion sort has the best case of O(n)
 and the worst case of O(n^2)
 
